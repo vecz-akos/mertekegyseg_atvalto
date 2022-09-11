@@ -32,7 +32,7 @@ Egy platformfüggetlen webalkalmazás létrehozása, ami könnyen érthető és 
 
 ## 5. Jelenlegi üzleti folyamatok
 
-`TODO`
+A mai világban sok helyen például a kisebb eladók se használják ki az évek alatt létrejött technológiákat, pedig sokban elősegítené a munkafolyamat gyorsítását és egyszereűsítését és ezzel a vásárlók elégedettségét is növelni lehetne, ami újabb vásárlókat vonzana be, mely növelné a kisebb zöldség-gyümölcs árusok bevételét. Mára már a pappíron való számolás elavultnak számít és igen csak sok időt vesz igénybe és ennek érdekében szükség van arra, hogy a pappíron végzett feladatokat átvigyük az online térbe. Az internet segítségével tudnánk az alkalmazottak számára elérhetővé és biztonságossá tenni a munkájukhoz elengedhetetlen átváltásokat és egyébb számolásokat, emellett csökentené a számolásokkor keletkező hibákat például elszámolásokat.
 
 ## 6. Igényelt üzleti folyamatok
 
