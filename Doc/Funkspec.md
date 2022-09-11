@@ -18,3 +18,35 @@ elérhető mértékegység-átváltó alkalmazást. Viszont hamar belátta, hogy
 felgyorsíthatók, ezért elkezdett keresni számára és a munkatársai számára is megfelelő átváltót, azonban ezen
 megoldások nem nyerték el tetszésüket. Egy olyan programra lenne szükségük, amely képes a gyors számolásra és
 emelett átlátható felülettel rendelkezik.
+
+## 3. Vágyálom rendszer
+
+Egy platformfüggetlen webalkalmazás létrehozása, ami könnyen érthető és átlatható egy egyszerű felhasználó számára is. A webalkalmazás rendelkezik több oldallal, amelyek között egyszerű a navigálás és nem szükséges a regisztrávió hozzá.
+
+## 4. Követelménylista
+
+ 1. K01 - kiválasztható eredet mértékegység, illetve kiválasztható cél mértékegység
+ 2. K02 - automatikus átváltás
+ 3. K03 - Egységár megadása
+ 4. K04 - Végösszeg számolás
+
+## 5. Jelenlegi üzleti folyamatok
+
+`TODO`
+
+## 6. Igényelt üzleti folyamatok
+
+Azért, hogy egyszerűbbé tegyük az alkalmazottak munkáját, létrehozunk egy platformfüggetlen webalkalmazást, ahol egyszerű és átlátható módon tudják átváltani a mértékegységeket és kiszámolni a végösszeget. Az alkalmazottaknak nem kell azon aggódniuk, hogy rosszul váltanak.
+
+## 7. Használati esetek
+
+ 1. Papír helyett online felületen [SI-mértékegységrendszerben](https://hu.wikipedia.org/wiki/SI-m%C3%A9rt%C3%A9kegys%C3%A9grendszer) átváltás.
+ 2. Végösszeg kiszámítása
+
+ ## 8. Fogalomtár
+
+platformfüggetlen:
+>egy alkalmazás nem korlátozódik le egy eszközre, hanem több különböző eszközről is használható
+
+SI-mértékegységrendszer:
+>A Nemzetközi Mértékegységrendszer, röviden SI, modern, nemzetközileg elfogadott mértékegységrendszer, amely néhány kiválasztott mértékegységen, illetve a 10 hatványain alapul.

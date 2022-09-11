@@ -20,7 +20,7 @@ A projekt célja egy olyan felület létrehozása, amely egy szép, letisztult �
 
 ## 5. Igényelt üzleti folyamatok
 
-`TODO`
+A weben keresztül minden alkalmazott számára elérhető legyen a mértékegyság átváltás, illetve a végösszeg kiszámolása.
 
 ## 6. A rendszerre vonatkozó szabályok
 
