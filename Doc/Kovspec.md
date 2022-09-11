@@ -13,3 +13,23 @@ A zöldség-gyümölcs boltokban általában papíron számolják ki a fizetend�
 ## 3. Vágyálom rendszer
 
 A projekt célja egy olyan felület létrehozása, amely egy szép, letisztult és könnyen használható webalkalmazás. Mivel ez egy webalkalmazás, így platformfüggetlen. A könnyű átláthatóságot színes gombok, ikonok biztosítják. A használata intuitív módon megtanulható, nem szükséges külön képzési tanfolyamon részt venni.
+
+## 4. Jelenlegi üzleti folyamatok
+
+`TODO`
+
+## 5. Igényelt üzleti folyamatok
+
+`TODO`
+
+## 6. A rendszerre vonatkozó szabályok
+
+A fejlesztés során figyelmet fordítunk az [SI-mértékegységrendszer](https://hu.wikipedia.org/wiki/SI-m%C3%A9rt%C3%A9kegys%C3%A9grendszer) által meghatározott mértékegységekre. Például kilogramm, gramm stb.
+
+## 7. Követelménylista
+
+`TODO`
+
+## 8. Fogalomtár
+
+`TODO`
