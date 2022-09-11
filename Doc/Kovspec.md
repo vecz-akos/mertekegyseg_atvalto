@@ -28,8 +28,15 @@ A fejlesztés során figyelmet fordítunk az [SI-mértékegységrendszer](https:
 
 ## 7. Követelménylista
 
-`TODO`
+ 1. K01 - kiválasztható eredet mértékegység, illetve kiválasztható cél mértékegység
+ 2. K02 - automatikus átváltás
+ 3. K03 - Egységár megadása
+ 4. K04 - Végösszeg számolás
 
 ## 8. Fogalomtár
 
-`TODO`
+platformfüggetlen:
+>egy alkalmazás nem korlátozódik le egy eszközre, hanem több különböző eszközről is használható
+
+SI-mértékegységrendszer:
+>A Nemzetközi Mértékegységrendszer, röviden SI, modern, nemzetközileg elfogadott mértékegységrendszer, amely néhány kiválasztott mértékegységen, illetve a 10 hatványain alapul.
