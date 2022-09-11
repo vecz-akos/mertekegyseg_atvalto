@@ -26,9 +26,9 @@ Egy platformfüggetlen webalkalmazás létrehozása, ami könnyen érthető és 
 ## 4. Követelménylista
 
  1. K01 - kiválasztható eredet mértékegység, illetve kiválasztható cél mértékegység
- 2. K02 - automatikus átváltás
- 3. K03 - Egységár megadása
- 4. K04 - Végösszeg számolás
+ 2. K02 - automatikus, gyors átváltás
+ 3. K03 - Egységár megadása a különböző termékekhez
+ 4. K04 - A termékek pontos és gyors végösszegének kiszámolása
 
 ## 5. Jelenlegi üzleti folyamatok
 
