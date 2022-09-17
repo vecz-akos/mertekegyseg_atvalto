@@ -68,6 +68,7 @@ Az alkalmazás web platformra, hordozható eszközökre (okostelefonok, táblag�
     - Chrome
     - Firefox
     - Opera
+    - Safari
     - Microsoft Edge
 
 ## 7. Architekturális terv
@@ -88,7 +89,27 @@ Adatbázisként egy JSON fájl fog funkcionálni, amiből lehetőség lesz olvas
 
 ## 10. Tesztterv
 
-TODO
+### Unit teszt:
+
+- A fejlesztési idő egyik fontosabb részét képzi a unit tesztek írása, mivel fontos, hogy a függvények megfelelően működjenek a mértékegység váltás és a végösszeg pontos kiszámításához.
+
+### Alfa teszt:
+
+- A tesztet a fejlesztők végzik.
+- A teszt elsődleges célja, hogy az eddig meglévő funkciók megfelelően működnek az összes böngészőben, illetve az androidos és IOS rendszerrel rendelkező eszközökön. Ez a teszt akkor sikeres, ha az összes böngészöben és eszközön megfelelően működik.
+
+### Beta teszt:
+
+- A tesztet az alkalmazottak végzik.
+- Tesztelendő böngészők:
+    - Chrome
+    - Firefox
+    - Safari
+    - Opera
+    - Microsoft Edge
+
+A tesztelés alatt a tesztelő felhasználók visszajelzéseket küldhetnek a
+fejlesztőknek, probléma/hiba felmerülése esetén. Ha hiba lép fel, a fejlesztők kijavítják a lehető leghamarabb.
 
 ## 11. Telepítési terv
 
@@ -97,6 +118,7 @@ TODO
 szükséges (Google Chrome, Firefox, Opera, Safari), külön szoftver
 nem kell hozzá. A webszerverre közvetlenül az internetről
 kapcsolódnak rá a kliensek.
+
 
 ## 12. Karbantartási terv
 
