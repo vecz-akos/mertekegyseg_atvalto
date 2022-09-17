@@ -83,9 +83,7 @@ A rendszert egy HTML, CSS, JavaScript és egy JSON fájl alkotja. A dizájnért 
 
 ## 9. Implementációs terv
 
-A weboldal egy Node.js szerverről lesz elérhető. A tartalom HTML5 szabványú fájlban lesz megszerkesztve. A megjelenésért a CSS3 szabványú stíluslapok lesznek felelősek. Az átváltási funkcionalitást és egyéb szímításokat a kliensoldalon futó JavaScript kód fogja végezni. Ez utóbbi leveszi a terhet a szerverről és csupán minimálisan fogja használni a kliens számítógép erőforrásait.
-
-Adatbázisként egy JSON fájl fog funkcionálni, amiből lehetőség lesz olvasni.
+A tartalom HTML5 szabványú fájlban lesz megszerkesztve. A megjelenésért a CSS3 szabványú stíluslapok lesznek felelősek. Az átváltási funkcionalitást és egyéb szímításokat a kliensoldalon futó JavaScript kód fogja végezni. Ez utóbbi leveszi a terhet a szerverről és csupán minimálisan fogja használni a kliens számítógép erőforrásait. A Javascript kód egy JSON fájlban lévő mértekegységeket fogja adatbázisként használni, így az összes különbőző technológia külön fájlban lesz, amelyeket úgy fogunk egymáshoz csatolni, hogy átláthatóbb és könnyebben változtatható legyen. 
 
 ## 10. Tesztterv
 
