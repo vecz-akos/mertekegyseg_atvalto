@@ -96,6 +96,6 @@ TODO
 
 ## 12. Karbantartási terv
 
-TODO
+A karbantartás a weboldal egyszerűsége miatt nem szükséges, kivéve abban az esetben, ha az [SI-mértékegységrendszer](https://hu.wikipedia.org/wiki/SI-m%C3%A9rt%C3%A9kegys%C3%A9grendszer) meg nem változik, illetve a váltó nem lett teljesen letesztelve.
 
 
