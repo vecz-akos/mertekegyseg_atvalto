@@ -7,7 +7,11 @@ A rendszerünk célja, hogy a zöldség-gyümölcs árusok gyorsan és könnyed�
 
 **Projekt szerepkörök és felelőségek**:
 
-TODO
+Backend: ...
+
+Frontend: ...
+
+Adatbázis: ...
 
 **Projekt munkások és felelőségek**:
 
@@ -15,7 +19,11 @@ TODO
 
 **Ütemterv**:
 
-TODO
+Fejlesztés: 2022. 09. 19-23.
+
+Tesztelés: 2022. 09. 24-26.
+
+Határidő: 2022. 09. 26.
 
 ## 3. Üzleti folyamatok modellje
 
@@ -45,11 +53,13 @@ TODO
 
 ## 8. Adatbázis terv
 
-TODO
+![adatbázis terv](/Doc/imgs/adatbazis.png)
 
 ## 9. Implementációs terv
 
-TODO
+A weboldal egy Node.js szerverről lesz elérhető. A tartalom HTML5 szabványú fájlban lesz megszerkesztve. A megjelenésért a CSS3 szabványú stíluslapok lesznek felelősek. Az átváltási funkcionalitást és egyéb szímításokat a kliensoldalon futó JavaScript kód fogja végezni. Ez utóbbi leveszi a terhet a szerverről és csupán minimálisan fogja használni a kliens számítógép erőforrásait.
+
+Adatbázisként egy JSON fájl fog funkcionálni, amiből lehetőség lesz olvasni.
 
 ## 10. Tesztterv
 
