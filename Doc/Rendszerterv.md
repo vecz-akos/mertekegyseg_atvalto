@@ -31,31 +31,35 @@ TODO
 
 TODO
 
-## 5. Fizikai környezet
+## 5. Funkcionális terv
 
 TODO
 
-## 6. Architekturális terv
+## 6. Fizikai környezet
 
 TODO
 
-## 9. Adatbázis terv
+## 7. Architekturális terv
 
 TODO
 
-## 10.Implementációs terv
+## 8. Adatbázis terv
 
 TODO
 
-## 11.Tesztterv
+## 9. Implementációs terv
 
 TODO
 
-## 12.Telepítési terv
+## 10. Tesztterv
 
 TODO
 
-## 13.Karbantartási terv
+## 11. Telepítési terv
+
+TODO
+
+## 12. Karbantartási terv
 
 TODO
 
