@@ -27,7 +27,7 @@ Határidő: 2022. 09. 26.
 
 ## 3. Üzleti folyamatok modellje
 
-TODO
+![üzleti folyamatok modellje](/Doc/imgs/modell.png)
 
 ## 4. Követelmények
 
