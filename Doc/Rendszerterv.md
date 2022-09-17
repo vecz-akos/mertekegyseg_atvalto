@@ -33,11 +33,20 @@ TODO
 
 **Funkcionális követelmények**:
 
-TODO
+### [K01] Dizájn
+    A dizájn a HTML és CSS segítségével lesz megvalósítva.
+### [K02] Rendszerfüggetlenség
+    A böngészőben való futtatás biztosítja a rendszerfüggetlenséget.
+### [K03] Gyors működés
+    A böngészőben lévő elérhetőség miatt az alkalmazás gyors működésre képes.
+### [K04] Könnyű kezelhetőség
+    Az átváltó egy egyszerű és átlátható weblapként lesz megjelenítve, így az egyszerű felhasználók is könnyen megérthetik majd a működését.
+### [K05] Pontos számítás
+    A számítógép végzi a számításokat, így a számítás mindig pontos lesz.
 
 **Törvényi előírások, szabványok**:
 
-TODO
+Az [SI-mértékegységrendszer](https://hu.wikipedia.org/wiki/SI-m%C3%A9rt%C3%A9kegys%C3%A9grendszer)-nek való megfelelés.
 
 ## 5. Funkcionális terv
 
