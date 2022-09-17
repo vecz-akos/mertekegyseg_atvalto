@@ -72,7 +72,9 @@ Az alkalmazás web platformra, hordozható eszközökre (okostelefonok, táblag�
 
 ## 7. Architekturális terv
 
-TODO
+A rendszert egy HTML, CSS, JavaScript és egy JSON fájl alkotja. A dizájnért felelős fájlok a HTML és a CSS. A JavaScript dolgozza fel a JSON fájlban lévő adatokat, illetve a számitásokhoz szükséges függvényeket.
+
+![Architekturális terv](/Doc/imgs/Architekturálisterv.PNG)
 
 ## 8. Adatbázis terv
 
