@@ -54,7 +54,21 @@ TODO
 
 ## 6. Fizikai környezet
 
-TODO
+Az alkalmazás web platformra, hordozható eszközökre (okostelefonok, táblagépek) készül.
+- Nincsenek megvásárolt komponensek.
+- Kliens által biztosított eszközök:
+    - Webszerver
+    - Okostelefon
+    - Táblagép
+- Fejlesztői eszközök:
+    - github
+    - Visual Studio Code
+    - Notepad++
+- Tesztelési környezet:
+    - Chrome
+    - Firefox
+    - Opera
+    - Microsoft Edge
 
 ## 7. Architekturális terv
 
