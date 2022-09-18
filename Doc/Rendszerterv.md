@@ -7,15 +7,11 @@ A rendszerünk célja, hogy a zöldség-gyümölcs árusok gyorsan és könnyed�
 
 **Projekt szerepkörök és felelőségek**:
 
-Backend: ...
+Backend: Bródi Máté Gábor
 
-Frontend: ...
+Frontend: Kerekes Konrád Péter
 
-Adatbázis: ...
-
-**Projekt munkások és felelőségek**:
-
-TODO
+Adatbázis: Oravecz Ákos
 
 **Ütemterv**:
 
