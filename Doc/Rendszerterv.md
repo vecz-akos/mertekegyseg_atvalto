@@ -92,7 +92,11 @@ Egy objektumban a következő értékek lesznek megtalálhatóak:
 
 ## 9. Implementációs terv
 
-A tartalom HTML5 szabványú fájlban lesz megszerkesztve. A megjelenésért a CSS3 szabványú stíluslapok lesznek felelősek. Az átváltási funkcionalitást és egyéb szímításokat a kliensoldalon futó JavaScript kód fogja végezni. Ez utóbbi leveszi a terhet a szerverről és csupán minimálisan fogja használni a kliens számítógép erőforrásait. A Javascript kód egy JSON fájlban lévő mértekegységeket fogja adatbázisként használni, így az összes különbőző technológia külön fájlban lesz, amelyeket úgy fogunk egymáshoz csatolni, hogy átláthatóbb és könnyebben változtatható legyen. 
+A tartalom HTML5 szabványú fájlban lesz megszerkesztve. Ennek fő eleme egy szám beviteli mező lesz, mellyel a forrás mértékegység mennyiségét kérhetjük le. A megjelenésért a CSS3 szabványú stíluslapok lesznek felelősek. Figyelmet fordítunk a színvakok és látássérültek helyzetére, így különböző árnyalatú, világosságú színeket fogunk használni. Az átváltási funkcionalitást és egyéb szímításokat a kliensoldalon futó JavaScript kód fogja végezni. Ez utóbbi leveszi a terhet a szerverről és csupán minimálisan fogja használni a kliens számítógép erőforrásait.
+
+A JavaScript kód egy JSON fájlban lévő mértekegységeket fogja adatbázisként használni. Az átváltási mechanizmus algoritmusa rendkívül hatékony, csupán a cél mértékegység arányát kell elosztani a forrás mértékegység arányával, majd ezt megszorozni a forrás mértékegység mennyiségével.
+
+Így az összes különbőző technológia külön fájlban lesz, amelyeket egymáshoz fogunk csatolni. Ez a megközelítés átláthatóbb és könnyebben változtatható a projektet eredményez, ami segíti a jövőbeli karbantartást is.
 
 ## 10. Tesztterv
 
