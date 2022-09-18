@@ -79,6 +79,15 @@ A rendszert egy HTML, CSS, JavaScript és egy JSON fájl alkotja. A dizájnért 
 
 ## 8. Adatbázis terv
 
+A különböző tömeg mértékegységek egy tömb adattípusban lesznek eltárolva. A tömb elemei objektumok lesznek, melyek 3-3 adatot tárolnak el.
+
+Egy objektumban a következő értékek lesznek megtalálhatóak:
+ * `név`: a mértékegység teljes neve, mely egy `string` lesz
+ * `rövidítés`: a mértékegység rövidítése, mely ugyancsak `string`, és csupán pár karakter hosszúak
+ * `arány`: az adott mértékegység átváltva az alap mértékegységre, mely `float` típusú lesz. Az alap mértékegység arány értéke `1.0` pontosan.
+ 
+ A nevek magyar nyelven fognak szerepelni. Akár név, akár rövidítés alapján egyértelműen be lehet majd azonosítani egy elemet, mivel ezek az értékek egyediek lesznek. Az arányszám fogja segíteni a tényleges számolást, ezek egy alap mértékegységhez lesznek viszonyítva.
+
 ![adatbázis terv](/Doc/imgs/adatbazis.png)
 
 ## 9. Implementációs terv
