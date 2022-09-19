@@ -47,10 +47,10 @@ Az [SI-mértékegységrendszer](https://hu.wikipedia.org/wiki/SI-m%C3%A9rt%C3%A9
 ## 5. Funkcionális terv
 
 **Rendszerszereplő**:
-Eladó
+- Eladó
 
 **Rendszerhasználati esetek és lefutásaik**:
-ELADÓ:
+- ELADÓ:
 
 - Beléphet az online felületre
 - Képes mértékegységek megadására és átváltására
@@ -59,17 +59,12 @@ ELADÓ:
 
 **Menü-hierarchiák**:
 - BEJELENTKEZÉS
-    -
-    Bejelentkezés
-    -
-    Regisztráció
+    - Bejelentkezés
+    - Regisztráció
 - MAIN MENÜ
-    -
-    Mértékegység kiválasztása
-    -
-    Számolási felület és végösszeg megjelenítő
-    -
-    Kijelentkezés
+    - Mértékegység kiválasztása
+    - Számolási felület és végösszeg megjelenítő
+    - Kijelentkezés
 
 
 ## 6. Fizikai környezet
