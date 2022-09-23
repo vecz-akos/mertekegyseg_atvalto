@@ -9,20 +9,41 @@
     <title>Mértékegység váltó</title>
 </head>
 <body>
-    <h1>Mértékegység váltó</h1>
-    <div>
-        <div>
-            <input type="number">
-            <select></select>
-            <input type="number">
-            <select></select>
+    <div class="main-div">
+        <h1>Mértékegység váltó</h1>
+        <div class="first-div">
+            <div>
+                <input id="first-input" type="number" placeholder="From: ">
+                <select id="first-select" class="weight">
+                    <option value="tonna">tonna</option>
+                    <option value="mázsa">mázsa</option>
+                    <option value="kg">kg</option>
+                    <option value="dkg">dkg</option>
+                    <option value="g">g</option>
+                    <option value="mg">mg</option>
+                </select>
+            </div>
+            <div>
+                <input id="second-input" type="number" placeholder="To: ">
+                <select id="second-select" class="weight">
+                    <option value="tonna">tonna</option>
+                    <option value="mázsa">mázsa</option>
+                    <option value="kg">kg</option>
+                    <option value="dkg">dkg</option>
+                    <option value="g">g</option>
+                    <option value="mg">mg</option>
+                </select>
+            </div>
         </div>
-        <div>
-            <select></select>
+        <div class="second-div">
+            <select id="vegetables-select" class="vegetables">
+                <option value="hagyma">hagyma</option>
+                <option value="paprika">paprika</option>
+            </select>
         </div>
-        <div>
-            <p>Végösszeg: </p>
+        <div class="third-div">
+            <p class="final-price">Végösszeg: </p>
         </div>
     </div>
-  </body>
-  </html>
+</body>
+</html>
