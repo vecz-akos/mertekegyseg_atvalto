@@ -45,5 +45,84 @@ table {
 }
 
 
-/* --------------------------------------------- */
+/* ---------------COLOR HELP------------- */
 
+
+body {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	min-height: 100vh;
+	background: url('https://cdn.hellovidek.hu/images/site/articles/lead/2019/09/1569403217-bd4YKsy6G_md.jpg') no-repeat center center fixed;
+    background-size: cover;
+}
+
+.main-div {
+	background-color: rgba(36, 226, 93, 0.8);
+	box-shadow: hsla(0, 0%, 0%, .8) 10px 10px 80px;
+	width: 500px;
+	padding: 30px;
+	border-radius: 7px;
+	
+}
+
+.main-div h1 {
+	font-size: 34px;
+	font-weight: 500;
+	text-align: center;
+	margin-bottom: 40px;
+}
+
+input {
+	width: 70%;
+	outline: none;
+	border: none;
+	border: 1px solid #999;
+	float: left;
+}
+
+input:focus {
+	border: 1px solid #675AFE;
+}
+
+
+
+.weight {
+	width: 20%;
+	outline: none;
+	border: none;
+	border: 1px solid #999;
+	float: right;
+}
+
+.weight:focus {
+	border: 1px solid #675AFE
+}
+
+.vegetables {
+	width: 30%;
+	outline: none;
+	border: none;
+	text-align: center;
+	border: 1px solid #999;
+	
+}
+ 
+input, select {
+	height: 50px;
+	font-size: 17px;
+	margin-bottom: 50px;
+	border-radius: 7px;
+	
+
+}
+
+
+.final-price {
+	text-align: center;
+	margin-bottom: 20px;
+}
+
+.second-div {
+	text-align: center;
+}
