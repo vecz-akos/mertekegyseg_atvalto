@@ -4,9 +4,21 @@ var select = document.getElementById('first-select');
 var select2 = document.getElementById('second-select');
 var inputTypeValue, resultTypeValue;
 
-input.addEventListener("keyup", Result);
-select.addEventListener("change", Result);
-resultTypeValue.addEventListener("change", Result);
+var unitChanges = []
+
+const getUnitChanges = () => {
+    const requestURL = '/src/db/data.json'
+    let request = new XMLHttpRequest()
+    request.open('GET', requestURL)
+    request.responseType = 'json'
+    request.send()
+    request.onload = () => {
+        unitChanges = request.response
+    }
+    return request.response
+}
+
+getUnitChanges()
 
 inputTypeValue = select.value;
 resultTypeValue = select2.value;
@@ -105,3 +117,7 @@ function Result() {
         input2.value = Number(input.value) * 1;
     }
 }
+
+input.addEventListener("keyup", Result);
+select.addEventListener("change", Result);
+resultTypeValue.addEventListener("change", Result);
