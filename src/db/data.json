@@ -1,9 +1,9 @@
 [
-    {"név": "milligramm", "rövidítés": "mg", "arány": 0.001},
-    {"név": "centigramm", "rövidítés": "cg", "arány": 0.01},
-    {"név": "decigramm", "rövidítés": "dg", "arány": 0.1},
-    {"név": "gramm", "rövidítés": "g", "arány": 1},
-    {"név": "dekagramm", "rövidítés": "dkg", "arány": 10},
-    {"név": "kilogramm", "rövidítés": "kg", "arány": 1000},
-    {"név": "tonna", "rövidítés": "t", "arány": 1000000}
+    {"name": "milligramm", "abbreviation": "mg", "ratio": 0.001},
+    {"name": "centigramm", "abbreviation": "cg", "ratio": 0.01},
+    {"name": "decigramm", "abbreviation": "dg", "ratio": 0.1},
+    {"name": "gramm", "abbreviation": "g", "ratio": 1},
+    {"name": "dekagramm", "abbreviation": "dkg", "ratio": 10},
+    {"name": "kilogramm", "abbreviation": "kg", "ratio": 1000},
+    {"name": "tonna", "abbreviation": "t", "ratio": 1000000}
 ]

@@ -24,9 +24,7 @@ inputTypeValue = select.value;
 resultTypeValue = select2.value;
 
 const findRatio = (unitName) => {
-    return unitChanges.find(({ név }) => név === unitName)?.arány ||
-           unitChanges.find(({ rövidítés }) => rövidítés === unitName)?.arány ||
-           -1
+    return unitChanges.find((unit) => unit.name === unitName || unit.abbreviation === unitName)?.ratio || -1
 }
 
 const changeUnit = (amount, fromUnit, toUnit) => {
