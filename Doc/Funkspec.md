@@ -21,7 +21,7 @@ emelett átlátható felülettel rendelkezik.
 
 ## 3. Vágyálom rendszer
 
-Egy platformfüggetlen webalkalmazás létrehozása, ami könnyen érthető és átlatható egy egyszerű felhasználó számára is. A webalkalmazás rendelkezik több oldallal, amelyek között egyszerű a navigálás és nem szükséges a regisztrávió hozzá.
+Egy platformfüggetlen webalkalmazás létrehozása, ami könnyen érthető és átlatható egy egyszerű felhasználó számára is. A webalkalmazás alkalmas tömeg mértékegységek átváltására, amennyiben a kívánt tömeget kilogrammba váltjuk, úgy lehetséges egy termék kiválasztásával megkapni a fizetendő összeget, melyekhez külön egységár tartozik. A mértékegységeket egy adatbázisból lehet elérni, amit egyszerűen lehet bővíteni vagy lecserélni a benne lévő adatokat. A weblapon a navigálás egyszerű és nem kell regisztrálni hozzá bárki számára elérhető.
 
 ## 4. Követelménylista
 
