@@ -30,7 +30,7 @@ Egy platformfüggetlen webalkalmazás létrehozása, ami könnyen érthető és 
  3. K03 - Termék kiválasztása
  4. K04 - Hozzá tartozó egységár kilogrammban történő hozzárendelése
  5. k05 - Pontos számítások
- 6. K04 - A termékek végösszegének kiírása
+ 6. K06 - A termékek végösszegének kiírása
 
 ## 5. Jelenlegi üzleti folyamatok
 
@@ -43,7 +43,10 @@ Azért, hogy egyszerűbbé tegyük az alkalmazottak munkáját, létrehozunk egy
 ## 7. Használati esetek
 
  1. Papír helyett online felületen [SI-mértékegységrendszerben](https://hu.wikipedia.org/wiki/SI-m%C3%A9rt%C3%A9kegys%C3%A9grendszer) átváltás.
- 2. Végösszeg kiszámítása
+ 2. Új termékek felvétele az adatbázisba
+ 3. Termékek árának változtatása
+ 4. Mértékegységek bővítése
+ 5. Végösszeg kiszámítása
 
 ## 8. Fogalomtár
 
