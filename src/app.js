@@ -77,9 +77,9 @@ const getUnitPrice = () => {
     
     let unitPrice = 0;
     if (!item.price) {
-        unitPrice = item.price
-    } else {
         unitPrice = 1
+    } else {
+        unitPrice = item.price
     }
 
     return unitPrice
