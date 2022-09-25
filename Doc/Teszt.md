@@ -10,5 +10,5 @@ Első lépésként a **From** mezőbe kattintva meg tudunk adni egy értéket, a
 
 ## Tesztelve
 - Tesztelő neve: Kerekes Konrád
-- Használt böngésző: Microsoft Edge
+- Használt böngésző/ők: Microsoft Edge, Google Chrome, Mozilla Firefox
 - Tesztelés dátuma: 2022.09.25.
