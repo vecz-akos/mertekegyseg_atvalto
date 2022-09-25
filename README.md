@@ -6,3 +6,5 @@ Résztvevők:
  - Bródi Máté Gábor
  - Kerekes Konrád Péter
  - Oravecz Ákos
+
+weblap címe: http://info.valamiszoft.nhely.hu/
