@@ -14,6 +14,9 @@ var unitPrices = [
     {"item": "hagyma", "price": 700},
     {"item": "paprika", "price": 1100}
 ]
+const unitPriceFormat = new Intl.NumberFormat('hu',
+                        {style: 'currency', currency: 'HUF',
+                         minimumFractionDigits: 0});
 
 
 // read from data.json file
@@ -91,8 +94,8 @@ const updatePrice = () => {
     if (unitPrice < 0) {
         unitPrice = 1
     }
-    price = input2.value * unitPrice
-    finalPrice.textContent = `Végösszeg: ${price} Ft`
+    price = Math.round(input2.value * unitPrice)
+    finalPrice.textContent = `Végösszeg: ${unitPriceFormat.format(price)}`
 }
 
 function Result() {
