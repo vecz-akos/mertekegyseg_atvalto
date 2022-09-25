@@ -27,8 +27,10 @@ Egy platformfüggetlen webalkalmazás létrehozása, ami könnyen érthető és 
 
  1. K01 - kiválasztható eredet mértékegység, illetve kiválasztható cél mértékegység
  2. K02 - automatikus, gyors átváltás
- 3. K03 - Egységár megadása a különböző termékekhez
- 4. K04 - A termékek pontos és gyors végösszegének kiszámolása
+ 3. K03 - Termék kiválasztása
+ 4. K04 - Hozzá tartozó egységár kilogrammban történő hozzárendelése
+ 5. k05 - Pontos számítások
+ 6. K04 - A termékek végösszegének kiírása
 
 ## 5. Jelenlegi üzleti folyamatok
 
