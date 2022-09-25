@@ -12,7 +12,11 @@ var unitChanges = []
 var unitChangesDownloaded = false
 var unitPrices = [
     {"item": "hagyma", "price": 700},
-    {"item": "paprika", "price": 1100}
+    {"item": "paprika", "price": 1100},
+    {"item": "uborka", "price": 800},
+    {"item": "paradicsom", "price": 860},
+    {"item": "alma", "price": 500},
+    {"item": "narancs", "price": 1300}
 ]
 const unitPriceFormat = new Intl.NumberFormat('hu',
                         {style: 'currency', currency: 'HUF',
